@@ -1,0 +1,2 @@
+Java is a highlevel programming language.
+which is Simple,Secured,ObjectOriented,Automatic GarbageCollection
